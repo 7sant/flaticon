@@ -8,4 +8,4 @@ follow the link for chrome driver link : https://chromedriver.chromium.org/downl
 If you are registered in flaticon website then you can download more than 1000 images
 else downloads are limited to 10
 
-Kindly login in chrome before using flaticon
+Kindly login in chrome before using flaticon if you want to download the entire pack.
