@@ -1,0 +1,11 @@
+python3
+selenium   -- pip3 install selenium
+BeautifulSoup -- pip3 install beautifulsoup4
+
+Chromedriver as per the chrome install version  
+follow the link for chrome driver link : https://chromedriver.chromium.org/downloads
+
+If you are registered in flaticon website then you can download more than 1000 images
+else downloads are limited to 10
+
+Kindly login in chrome before using flaticon
