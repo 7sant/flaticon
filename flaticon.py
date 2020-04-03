@@ -5,8 +5,12 @@ import requests
 
 """options = webdriver.ChromeOptions()
 options.add_argument("--incognito")"""
+
+# Giving the path of Chrome Driver
 chromedriver = "/home/santuk/Desktop/python/chromedriver"
 # browser = webdriver.Chrome(chromedriver, options=options)
+
+# starting the browser
 browser = webdriver.Chrome(chromedriver)
 ur = input("Enter the Flaticon url: ")
 
@@ -26,5 +30,6 @@ for i in range(1,len(data)):
 	ActionChains(browser).move_to_element(button).click().perform()
 	download_button = browser.find_element_by_css_selector("#download-free > b")
 	ActionChains(browser).move_to_element(download_button).click().perform()
+
 
 
